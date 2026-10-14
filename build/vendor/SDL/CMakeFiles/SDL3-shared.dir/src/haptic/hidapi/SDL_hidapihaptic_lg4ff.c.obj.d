@@ -1,0 +1,34 @@
+vendor/SDL/CMakeFiles/SDL3-shared.dir/src/haptic/hidapi/SDL_hidapihaptic_lg4ff.c.obj: \
+ C:\Users\super\Dev\mandelbrot-gl\vendor\SDL\src\haptic\hidapi\SDL_hidapihaptic_lg4ff.c \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/SDL_internal.h \
+ C:\Users\super\Dev\mandelbrot-gl\vendor\SDL\src\haptic\hidapi\SDL_hidapihaptic_c.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/include/SDL3/SDL_haptic.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/include/SDL3/SDL_joystick.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/haptic/SDL_syshaptic.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/joystick/SDL_joystick_c.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/joystick/SDL_sysjoystick.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/joystick/SDL_joystick_c.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/events/SDL_events_c.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/video/SDL_sysvideo.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/include/SDL3/SDL_vulkan.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/include/SDL3/SDL_stdinc.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/include/SDL3/SDL_error.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/include/SDL3/SDL_video.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/include/SDL3/SDL_begin_code.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/include/SDL3/SDL_close_code.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/video/SDL_surface_c.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/video/SDL_blit.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/events/SDL_clipboardevents_c.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/events/SDL_displayevents_c.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/events/SDL_dropevents_c.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/events/SDL_keyboard_c.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/events/SDL_keymap_c.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/events/SDL_mouse_c.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/events/SDL_touch_c.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/events/SDL_pen_c.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/SDL_internal.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/events/SDL_windowevents_c.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/include/SDL3/SDL_thread.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/include/SDL3/SDL_mutex.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/include/SDL3/SDL_timer.h \
+ C:/msys64/ucrt64/include/math.h

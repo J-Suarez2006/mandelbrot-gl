@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/super/Dev/mandelbrot-gl/build/cmake_install.cmake",
+		"C:/Users/super/Dev/mandelbrot-gl/build/vendor/SDL/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

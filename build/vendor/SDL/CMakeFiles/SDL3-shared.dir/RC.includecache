@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/core/windows/version.rc
+winresrc.h
+C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/core/windows/winresrc.h
+

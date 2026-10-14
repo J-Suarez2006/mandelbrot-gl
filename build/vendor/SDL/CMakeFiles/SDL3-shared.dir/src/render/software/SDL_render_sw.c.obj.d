@@ -1,0 +1,26 @@
+vendor/SDL/CMakeFiles/SDL3-shared.dir/src/render/software/SDL_render_sw.c.obj: \
+ C:\Users\super\Dev\mandelbrot-gl\vendor\SDL\src\render\software\SDL_render_sw.c \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/SDL_internal.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/render/SDL_sysrender.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/video/SDL_surface_c.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/video/SDL_blit.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/render/SDL_yuv_sw_c.h \
+ C:\Users\super\Dev\mandelbrot-gl\vendor\SDL\src\render\software\SDL_render_sw_c.h \
+ C:\Users\super\Dev\mandelbrot-gl\vendor\SDL\src\render\software\SDL_draw.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/video/SDL_surface_c.h \
+ C:\Users\super\Dev\mandelbrot-gl\vendor\SDL\src\render\software\SDL_blendfillrect.h \
+ C:\Users\super\Dev\mandelbrot-gl\vendor\SDL\src\render\software\SDL_blendline.h \
+ C:\Users\super\Dev\mandelbrot-gl\vendor\SDL\src\render\software\SDL_blendpoint.h \
+ C:\Users\super\Dev\mandelbrot-gl\vendor\SDL\src\render\software\SDL_drawline.h \
+ C:\Users\super\Dev\mandelbrot-gl\vendor\SDL\src\render\software\SDL_drawpoint.h \
+ C:\Users\super\Dev\mandelbrot-gl\vendor\SDL\src\render\software\SDL_triangle.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/video/SDL_pixels_c.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/video/SDL_rotate.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/video/SDL_sysvideo.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/include/SDL3/SDL_vulkan.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/include/SDL3/SDL_stdinc.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/include/SDL3/SDL_error.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/include/SDL3/SDL_video.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/include/SDL3/SDL_begin_code.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/include/SDL3/SDL_close_code.h \
+ C:/Users/super/Dev/mandelbrot-gl/vendor/SDL/src/video/SDL_surface_c.h
